@@ -87,7 +87,7 @@ DevOps
 </a>  
 </div>
 
-<hr>
+
 <div align="center"><a href="https://youtube.com/channel/UCjlkmyOhEEUo1CNNqvSafEA" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></div>
 <div>
