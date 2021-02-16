@@ -9,7 +9,7 @@
 <hr>
 <center>
 <h2>Seja Bem Vindo ao Meu Perfil</h2>
-<h3>Eu me chamo Oliver Hacking Programador e Hacker etico</h3>
+### <div align="center">Sou Oliver Hacking, um desenvolvedor freelance full-stack 👨‍💻</div>  
 <hr>
 
 ## My Skill Set  
