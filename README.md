@@ -95,14 +95,3 @@ DevOps
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></div>
 <div>
 
-<hr>
-  
-
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/74073593?s=400&u=7d8025504746220b4210e92f09ad79e3885f6618&v=4" width="70">
-</p>
-
-</center>
-
-<hr>
