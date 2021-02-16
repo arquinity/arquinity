@@ -74,7 +74,7 @@ DevOps
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-<br />
+<br /><br/>
 
 ## Connect with me  
   
@@ -98,4 +98,4 @@ DevOps
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></div>
 <div>
 
-<h>
+<hr>
