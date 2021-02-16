@@ -1,5 +1,25 @@
 
 <br>
+<div align="center">
+<a href="https://github.com/arquinity" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<div>
+
+<div align="center">
+<a href="https://instagram.com/oliver_hacking" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+
+<div align="center">
+
+
+<a  href="https://youtube.com/channel/UCjlkmyOhEEUo1CNNqvSafEA" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></div>
+<div>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Country-Brazil-red?&style=for-the-badge" />
     <img src="https://img.shields.io/github/followers/arquinity?color=red&style=for-the-badge" />
