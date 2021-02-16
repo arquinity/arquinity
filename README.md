@@ -66,7 +66,7 @@ DevOps
 <br/>  
 
 
-## Connect with me  
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arquinity&show_icons=true&theme=dracula&bg_color=1C00ff00&hide_border=true">
@@ -75,6 +75,8 @@ DevOps
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&langs_count=999&theme=dracula&bg_color=1C00ff00&hide_border=true">
 </p>
 <br />
+
+## Connect with me  
   
 <div align="center">
 <a href="https://github.com/arquinity" target="_blank">
