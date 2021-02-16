@@ -41,6 +41,11 @@
 </a>
 <div>
 <hr>
+href="https://instagram.com/oliver_hacking" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/74073593?s=400&u=7d8025504746220b4210e92f09ad79e3885f6618&v=4" width="70">
