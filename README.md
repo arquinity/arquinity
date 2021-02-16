@@ -9,7 +9,7 @@
 <hr>
 <center>
 <h2>Seja Bem Vindo ao Meu Perfil</h2>
-<div align="center">Sou Oliver Hacking, um desenvolvedor freelance full-stack 👨‍💻</div>  
+<div align="center">Sou Oliver Hacking, um desenvolvedor freelance full-stack e Hacker Ético 👨‍💻</div>  
 <hr>
 
 ## My Skill Set  
