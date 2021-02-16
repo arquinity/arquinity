@@ -89,10 +89,7 @@ DevOps
 </p>
 
 <div>
-
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-<br />
-<hr>
 
