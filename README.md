@@ -71,6 +71,12 @@ DevOps
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&langs_count=999&theme=dracula&bg_color=1C00ff00&hide_border=true">
 </p>
+<div>
+<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=Kripto-Sec&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripto-Sec&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
+
 <br />
 
 ## Connect with me  
