@@ -9,6 +9,11 @@
 </p>
 
 
+<hr>
+<center>
+<h2>Seja Bem Vindo ao Meu Perfil</h2>
+<h3>Eu me chamo Oliver Hacking Programador e Hacker etico</h3>
+<hr>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -63,11 +68,6 @@ DevOps
 
 
 
-<hr>
-<center>
-<h2>Seja Bem Vindo ao Meu Perfil</h2>
-<h3>Eu me chamo Oliver Hacking Programador e Hacker etico</h3>
-<hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arquinity&show_icons=true&theme=dracula&bg_color=1C00ff00&hide_border=true">
 </p>
