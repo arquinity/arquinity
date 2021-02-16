@@ -68,9 +68,7 @@ DevOps
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arquinity&show_icons=true&theme=dracula&bg_color=1C00ff00&hide_border=true">
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&langs_count=999&theme=dracula&bg_color=1C00ff00&hide_border=true">
-</p>
+
 <div>
 
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
