@@ -134,7 +134,7 @@ Eu me especializo na construção de back-ends robustos que fazem todo o trabalh
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&hide_border=true&layout=compact
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquinity&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
