@@ -77,7 +77,6 @@ Eu me especializo na construção de back-ends robustos que fazem todo o trabalh
 
 </td></tr></table>  
 
-<br/>  
 
 
  
