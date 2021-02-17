@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" /></div>
 <div>
 
-### Glad to see you here!  
+### Contente por te ver aqui!
 Sou um desenvolvedor full-stack 
 e Hacker Ético que transformou anos de freelancer em carreira de tempo integral. Ser uma pilha completa me permite não apenas desenvolver aplicativos e sites voltados para o cliente, mas também desenvolvê-los com suporte de back-end de ponta.
 
