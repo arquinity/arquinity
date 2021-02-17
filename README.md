@@ -20,7 +20,7 @@ e Hacker Ético que transformou anos de freelancer em carreira de tempo integral
 
 Eu me especializo na construção de back-ends robustos que fazem todo o trabalho pesado para seu aplicativo ou site. Eu amo projetar sistemas que são leves, mas poderosos, distribuídos, mas sincronizados e bonitos, mas eficazes. Também faço blogs com frequência sobre o mundo por trás da tela, que envolve projetos de sistemas, bancos de dados, segurança, servidores, otimização e também tecnologias promissoras como Blockchain e PWAs.  
   
-
+ 
 <br/>  
 
 ## Languages and Tools  
